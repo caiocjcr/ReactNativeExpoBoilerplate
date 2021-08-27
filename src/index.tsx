@@ -4,7 +4,7 @@ import { View, Text } from 'react-native'
 const App: React.FC = () => {
   return (
     <View>
-      <Text>SalesApp</Text>
+      <Text>Root component</Text>
     </View>
   )
 }

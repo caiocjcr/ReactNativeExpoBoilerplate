@@ -1,0 +1,17 @@
+node_modules
+android
+ios
+.expo
+__tests__
+.buckconfig
+.eslintrc.json
+.gitattributes
+.gitignore
+.prettierrc
+app.json
+babel.config.js
+jest.config.js
+metro.config.js
+package.json
+tsconfig.json
+yarn.lock
